@@ -36,7 +36,7 @@
     background-color: #ededed;
   }
 
-  button:nth-child(18) { /* Selecciona el botón '=' */
-    grid-column: span 3; /* Hace que ocupe las 4 columnas disponibles */
+  button:nth-child(19) { /* Selecciona el botón '=' */
+    grid-column: span 2; /* Hace que ocupe las 4 columnas disponibles */
   }
 }
